@@ -1,0 +1,1 @@
+export const PYTHON_API_GET = 'http://localhost:5000'
